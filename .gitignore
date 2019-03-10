@@ -1,0 +1,7 @@
+.vs/
+Server/bin/
+Server/obj/
+ClientConsole/bin/
+ClientConsole/obj/
+ClientGUI/bin/
+ClientGUI/obj/
